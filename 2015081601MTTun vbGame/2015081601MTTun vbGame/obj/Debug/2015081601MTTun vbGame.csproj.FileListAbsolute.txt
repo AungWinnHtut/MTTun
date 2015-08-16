@@ -1,0 +1,9 @@
+I:\Students\MyoThetTun\codes\2015081601MTTun vbGame\2015081601MTTun vbGame\bin\Debug\2015081601MTTun vbGame.exe.config
+I:\Students\MyoThetTun\codes\2015081601MTTun vbGame\2015081601MTTun vbGame\bin\Debug\2015081601MTTun vbGame.exe
+I:\Students\MyoThetTun\codes\2015081601MTTun vbGame\2015081601MTTun vbGame\bin\Debug\2015081601MTTun vbGame.pdb
+I:\Students\MyoThetTun\codes\2015081601MTTun vbGame\2015081601MTTun vbGame\obj\Debug\2015081601MTTun vbGame.csprojResolveAssemblyReference.cache
+I:\Students\MyoThetTun\codes\2015081601MTTun vbGame\2015081601MTTun vbGame\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+I:\Students\MyoThetTun\codes\2015081601MTTun vbGame\2015081601MTTun vbGame\obj\Debug\2015081601MTTun vbGame.csproj.GenerateResource.Cache
+I:\Students\MyoThetTun\codes\2015081601MTTun vbGame\2015081601MTTun vbGame\obj\Debug\2015081601MTTun vbGame.exe
+I:\Students\MyoThetTun\codes\2015081601MTTun vbGame\2015081601MTTun vbGame\obj\Debug\2015081601MTTun vbGame.pdb
+I:\Students\MyoThetTun\codes\2015081601MTTun vbGame\2015081601MTTun vbGame\obj\Debug\WindowsFormsApplication1.frmSnakeAndLadder.resources
